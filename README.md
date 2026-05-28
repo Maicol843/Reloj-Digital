@@ -1,4 +1,4 @@
-# 🕒 Reloj Digital Moderno - Java Desktop Widget
+# 🕒 Reloj Digital Moderno 
 
 Un reloj digital flotante, minimalista y con un diseño futurista estilo widget de escritorio, construido en Java 
 utilizando las librerías nativas Swing y AWT.
