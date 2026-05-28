@@ -46,22 +46,22 @@ java -jar Calculadora.jar
 ```
 ### Opción 2: Compilar desde el código fuente
 Si preferís compilar las clases manualmente desde la terminal:
-# 1. Compilar el código fuente:
+### 1. Compilar el código fuente:
 ```bash
 javac RelojDigitalModerno.java
 ```
-# 2. Ejecutar la clase generada:
+### 2. Ejecutar la clase generada:
 ```bash
 java RelojDigitalModerno
 ```
-# 3. (Opcional) Crear tu propio archivo JAR:
+### 3. (Opcional) Crear tu propio archivo JAR:
 ```bash
 jar cfm RelojDigitalModerno.jar manifest.txt RelojDigitalModerno*.class
 ```
 
 ---
 
-👤 Autor
+## 👤 Autor
 
 Maicol Daniel Mamani Chalco - https://github.com/Maicol843/
 
